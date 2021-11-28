@@ -419,7 +419,7 @@ body {
   border-radius: 4px;
   align-items: center;
   justify-content: center;
-  /* fill: var(--social-main-color); */
+  cursor: pointer;
 }
 
 .client-link:hover,
