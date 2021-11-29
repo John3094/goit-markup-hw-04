@@ -582,6 +582,7 @@ body {
 .gallery-item {
   flex-basis: calc(100% / 3 - 30px);
   margin: 15px;
+  cursor: pointer;
 }
 
 .gallery-item:hover,
