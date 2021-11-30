@@ -372,7 +372,7 @@ body {
 }
 
 .team-social-link:hover,
-.team-socail-link:focus {
+.team-social-link:focus {
   background-color: var(--social-accent-color);
   fill: #fff;
 }
@@ -523,7 +523,7 @@ body {
 }
 
 .footer-social-link:hover,
-.footer-socail-link:focus {
+.footer-social-link:focus {
   background-color: var(--social-accent-color);
   fill: #fff;
 }
