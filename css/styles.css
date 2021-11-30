@@ -109,6 +109,7 @@ body {
   font-size: 14px;
   line-height: 1.14px;
   letter-spacing: 0.02em;
+  outline: none;
   color: var(--header-text-color);
 }
 
@@ -123,6 +124,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--connection-color);
   display: flex;
+  outline: none;
 }
 
 .mail {
@@ -138,6 +140,7 @@ body {
   color: var(--connection-color);
   margin-left: 59px;
   display: flex;
+  outline: none;
 }
 
 .tel {
@@ -166,6 +169,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--second-logo-color);
   margin-right: 93px;
+  outline: none;
 }
 
 .first-logo {
@@ -217,6 +221,7 @@ body {
   margin-top: 30px;
   align-items: center;
   text-align: center;
+  outline: none;
 }
 
 /*------------features----------------*/
@@ -368,6 +373,7 @@ body {
   border-radius: 50%;
   align-items: center;
   justify-content: center;
+  outline: none;
   fill: var(--social-main-color);
 }
 
@@ -419,6 +425,7 @@ body {
   border-radius: 4px;
   align-items: center;
   justify-content: center;
+  outline: none;
 }
 
 .client-link:hover,
@@ -454,6 +461,7 @@ body {
   color: var(--footer-logo-color);
   margin-bottom: 20px;
   display: block;
+  outline: none;
 }
 
 .contact-list {
@@ -469,6 +477,7 @@ body {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  outline: none;
   color: var(--address-color);
 }
 
@@ -477,6 +486,7 @@ body {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  outline: none;
   color: var(--contact-online);
 }
 
@@ -517,6 +527,7 @@ body {
   border-radius: 50%;
   align-items: center;
   justify-content: center;
+  outline: none;
   background-color: rgba(255, 255, 255, 0.1);
   fill: var(--address-color);
 }
@@ -558,6 +569,7 @@ body {
   padding-right: 22px;
   padding-bottom: 6px;
   padding-left: 22px;
+  outline: none;
 }
 
 .gallery-btn:hover,
